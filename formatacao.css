@@ -1,0 +1,93 @@
+
+    .titulo{
+       
+        width: 1000px;
+        height: 600px;
+        margin: 5px auto;
+        padding: 1px;
+
+    }
+
+    .corpo{
+        
+        height: 530px;
+        margin: 1px;     
+        background-color:  #e70000;      
+        
+
+    }
+
+    .conteudo{
+       
+        height: 260px;
+        margin: 1px;
+        color: white;     
+         
+       
+    }
+
+    .caixa{
+        width: 329px;
+        height: 269px;
+        float: left;
+        margin-right: 5px;
+        background-color:#571212;         
+       
+    }
+
+    .caixaR{
+        width: 329px;
+        height: 269px;
+        float:right;
+        background-color: #571212;         
+       
+    }
+
+    .fontg{
+        font-size: 20px;
+        font-weight: bold;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color:#e70000;
+        padding-left: 90px;    
+        
+        
+    }
+    .font-titulo{
+        font-size: 35px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-weight:lighter;
+        color: white;
+        padding-left: 90px;   
+        padding-top: 50px; 
+
+    }
+
+    .font-desc{
+        font-size: 15px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-weight:lighter;
+        color: white;
+        padding-left: 90px;   
+       
+
+    }
+
+    .fontt{
+        font-size: 18px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+        font-weight:300;          
+        color:white;
+        padding: 30px;  
+         
+
+    }
+
+    .fontp{
+        font-size: 12px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;         
+        color:#934343;
+        padding-left: 30px;
+        padding-right: 30px;
+
+    }  
+
